@@ -1,2 +1,10 @@
-# android_device_motorola_hawaiip
-TWRP Moto G22 Device tree
+# Android device tree for motorola moto g22 (hawaiip)
+
+```
+#
+# Copyright (C) 2026 The Android Open Source Project
+# Copyright (C) 2026 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
